@@ -33,4 +33,4 @@ cd 2048-pygame
 python 2048.py
 
 # SCREENSHOTS:
-
+![2048 Game Screenshot](image.png)
