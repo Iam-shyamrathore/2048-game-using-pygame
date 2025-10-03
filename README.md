@@ -2,8 +2,8 @@
 
 A complete recreation of the classic 2048 puzzle game, built from the ground up using Python and the Pygame library. This project provides a fully-featured, standalone 2048 experience with smooth animations and a clean, modern aesthetic.
 
-![Gameplay Screenshot](https://i.imgur.com/7GIzB09.png)
-
+![Gameplay Screenshot](image.png)
+![GamePlay Screenshot2](image_copy.png)
 ## ✨ Features
 
 * **Classic 2048 Gameplay**: The core objective is to slide and combine tiles to create the 2048 tile. The game continues after you reach 2048, allowing you to chase a new high score!
